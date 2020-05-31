@@ -17,7 +17,7 @@ export default class Footer extends React.Component {
       <footer className="Footer">
         <img src="/media/icons/logo.svg" alt="GYMI Logo" className="Footer--logo" />
         <p>
-          © GYMI 2015<br />
+          © GYMI 2020<br />
           Official 501(c)(3)<br />
           <a href="mailto:hr@gymiteam.com">info@gymiteam.com</a>
         </p>
