@@ -53,9 +53,13 @@ function AboutUsPage({ intl }) {
               <FormattedHTMLMessage {...aboutMessages.progress.body} />
               {
                 [
-                  { season: 'summer', year: 2015 },
-                  { season: 'summer', year: 2014 },
-                  { season: 'summer', year: 2013 },
+                    { season: 'summer', year: 2019 },
+                    { season: 'summer', year: 2018 },
+                    { season: 'summer', year: 2017 },
+                    { season: 'summer', year: 2016 },
+                    { season: 'summer', year: 2015 },
+                    { season: 'summer', year: 2014 },
+                    { season: 'summer', year: 2013 },
                 ].map(({ season, year }) => (
                   <Button
                     className="AboutUsPage--progress--button"
