@@ -12,7 +12,7 @@ export default [
   {
     id: 'AboutUsPage.background.body',
     defaultMessage: '<p>吉米公益组织 (GYMI)是一个美国501c3条款认可的公共公益组织。我们2013年在美国纽约哥伦比亚大学成立，但我们的成员来自美国以及世界各地。</p>' +
-    '<p>GYMI赢得了2013年Resolution Project举办的Social Venture Challenge并获取了他们提供的基金和长期的支持。自此，我们收获了来自美国和中国的媒体关注。</p>',
+    '<p>GYMI赢得了2013年Resolution Project举办的Social Venture Challenge并获取了他们提供的基金和长期的支持。在2017年，GYMI正式成为<b>联合国新闻部NGO非政府组织</b>。自此，我们收获了来自美国和中国的媒体关注。</p>',
   },
   {
     id: 'AboutUsPage.goals.title',
@@ -29,7 +29,7 @@ export default [
   },
   {
     id: 'AboutUsPage.progress.body',
-    defaultMessage: '<p>吉米已经成功举办了七个暑期项目！我们在中国5个不同的省份开办了13个项目。</p>' +
+    defaultMessage: '<p>吉米已经成功举办了七个暑期项目！我们在中国6个不同省份的23所学校开办了导师计划夏令营，招募了大约300名志愿者导师，影响了超过600名留守和流动儿童。</p>' +
     '<p>给所有参与过吉米公益的志愿者和导师们的辛勤付出点一个大大的赞！你们是吉米的最大功臣！</p>',
   },
   {
