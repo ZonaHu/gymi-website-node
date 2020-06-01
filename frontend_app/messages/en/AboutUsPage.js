@@ -29,7 +29,7 @@ export default [
   },
   {
     id: 'AboutUsPage.progress.body',
-    defaultMessage: '<p>GYMI has now completed THREE successful summers of programming! We have held 13 sessions in 5 different Chinese provinces.</p>' +
+    defaultMessage: '<p>GYMI has now completed SEVEN successful summers of programming! We have held 13 sessions in 5 different Chinese provinces.</p>' +
     '<p>A big thanks to all of the mentors and coordinators for their hard work that made it possible!</p>',
   },
   {
@@ -83,5 +83,5 @@ export default [
   {
     id: 'AboutUsPage.collaborators.globalYoungVoices.description',
     defaultMessage: 'Global Young Voices is a worldwide media outlet with a wide reach of over 190 countries alongside collaborations with organisations such as the UN Youth, the UN Academic Impact and the European Youth Forum. They are excited to be partnering with FAF for the first time at the 2017 Summer Youth Assembly at the United Nations.',
-  }
+  },
 ];
