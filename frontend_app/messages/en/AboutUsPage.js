@@ -12,7 +12,7 @@ export default [
   {
     id: 'AboutUsPage.background.body',
     defaultMessage: '<p>Global Youth Mentorship Initiative (GYMI) is a <b>501c3 </b> nonprofit public charity. We were first established in 2013 at Columbia University in New York but our members come from colleges around the U.S and all over the world.</p>' +
-    '<p>GYMI was a winner at the Social Venture Challenge hosted by the Resolution Project in 2013 and was rewarded with funds and long-term support. In 2017, GYMI was approved for association with <b>United Nations Department of Public Information</b>. We have since gained media attention in China and the U.S</p>',
+    '<p>GYMI was a winner at the Social Venture Challenge hosted by the Resolution Project in 2013 and was rewarded with funds and long-term support. <br> In 2017, GYMI was approved for association with <b>the United Nations Department of Public Information</b>. We have since gained media attention in China and the U.S</p>',
   },
   {
     id: 'AboutUsPage.goals.title',
